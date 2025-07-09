@@ -212,7 +212,7 @@ Thank you so much for your love and support ❤️
 ## API Source
 
 - Verbs from [wiktionary](https://www.wiktionary.org/)
-- Other data from [Cambridge Dictionary](https://www.oxfordlearnersdictionaries.com/)
+- Other data from [Oxford learner's dictionaries](https://www.oxfordlearnersdictionaries.com/)
 
 Develop by Skun ❤️ \
 Contributions are welcome! 🎉
