@@ -4,6 +4,8 @@ A simple API for [Oxford learner's dictionaries](https://www.oxfordlearnersdicti
 
 <a href="https://www.buymeacoffee.com/truongnguyendev"><img src="https://img.buymeacoffee.com/button-api/?text=By me a coffee&emoji=&slug=truongnguyendev&button_colour=8c2eff&font_colour=ffffff&font_family=Arial&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
 
+<a href="https://www.buymeacoffee.com/truongnguyendev"><img src="https://private-user-images.githubusercontent.com/68834218/464246044-b40fe86d-d39c-4b78-8781-9cb7fb3d6f52.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTIwNzI5MDgsIm5iZiI6MTc1MjA3MjYwOCwicGF0aCI6Ii82ODgzNDIxOC80NjQyNDYwNDQtYjQwZmU4NmQtZDM5Yy00Yjc4LTg3ODEtOWNiN2ZiM2Q2ZjUyLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzA5VDE0NTAwOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThjMjU5YjZkMzdmY2ZkMDdhMzViNDU4OTAyMjRhY2I3Y2RlNTA0ZWY3ODhkNTExNDQxNjY5MjZkMjY3MTk0NTEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.p5_MHf197wpbfu_ptBy573ZIwGOZCRkK9pSXpZFbYds" width="250" alt="by me a coffee" /> </a>
+
 ## 🕹️ Manual
 
 ### 📚️ dictionary
@@ -209,6 +211,7 @@ Thank you so much for your love and support ❤️
 
 <a href="https://www.buymeacoffee.com/truongnguyendev"><img src="https://img.buymeacoffee.com/button-api/?text=By me a coffee&emoji=&slug=truongnguyendev&button_colour=8c2eff&font_colour=ffffff&font_family=Arial&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
 
+<a href="https://www.buymeacoffee.com/truongnguyendev"><img src="https://private-user-images.githubusercontent.com/68834218/464246044-b40fe86d-d39c-4b78-8781-9cb7fb3d6f52.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTIwNzI5MDgsIm5iZiI6MTc1MjA3MjYwOCwicGF0aCI6Ii82ODgzNDIxOC80NjQyNDYwNDQtYjQwZmU4NmQtZDM5Yy00Yjc4LTg3ODEtOWNiN2ZiM2Q2ZjUyLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzA5VDE0NTAwOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThjMjU5YjZkMzdmY2ZkMDdhMzViNDU4OTAyMjRhY2I3Y2RlNTA0ZWY3ODhkNTExNDQxNjY5MjZkMjY3MTk0NTEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.p5_MHf197wpbfu_ptBy573ZIwGOZCRkK9pSXpZFbYds" width="250" alt="by me a coffee" /> </a>
 ## API Source
 
 - Verbs from [wiktionary](https://www.wiktionary.org/)
